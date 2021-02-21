@@ -37,7 +37,7 @@ public class FibonacciDriver {
 		endTime=System.nanoTime();
 		totalTime = endTime - startTime;
 		
-		System.out.print(" result in "+totalTime+"ms");
+		System.out.print(" result in "+totalTime+"ns");
 
 	}
 
